@@ -3,6 +3,7 @@
   "title": "Moisture sensor",
   "keywords": "moisture, esp32, esp8266, arduino",
   "description": "Plugin moisture for KB-IDE",
+  "category":"Sensors",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-moisture/",
   "author": "cmmakerclub",
   "email": "",
